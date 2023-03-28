@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  order: 1
+  duration: 1
+  ad: one
+  user: one
+  ad_break: one
+  scheduled_start_date: 2023-03-27
+  scheduled_end_date: 2023-03-27
+  scheduled_days: MyString
+
+two:
+  name: MyString
+  order: 1
+  duration: 1
+  ad: two
+  user: two
+  ad_break: two
+  scheduled_start_date: 2023-03-27
+  scheduled_end_date: 2023-03-27
+  scheduled_days: MyString
